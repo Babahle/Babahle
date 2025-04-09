@@ -7,7 +7,6 @@ A little more about me...
 
 ```javascript
 const Babahle = {
-  pronouns: "she" | "her",
   languages: [Javascript, Typescript, HTML, CSS, Python, Java],
   tools: [Vue, Tailwind CSS, LESS, SCSS, Angular, Flutter],
 }
