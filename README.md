@@ -9,5 +9,6 @@ A little more about me...
 const Babahle = {
   languages: [Javascript, Typescript, HTML, CSS, Python, Java],
   tools: [Vue, Tailwind CSS, LESS, SCSS, Angular, Flutter],
+  hobbies: [Photography, Gaming, Exercising]
 }
 ```
